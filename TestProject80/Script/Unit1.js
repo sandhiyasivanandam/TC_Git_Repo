@@ -22,4 +22,5 @@
   Aliases.browser.pageTestcomplete15DocumentationT2.Wait();
   //Clicks the 'textnodeTestcomplete1564' control.
   Aliases.browser.pageTestcomplete15DocumentationT2.textnodeTestcomplete1564.Click();
+  //adding a new line from git
 }
