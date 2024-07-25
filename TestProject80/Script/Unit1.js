@@ -24,4 +24,6 @@
   Aliases.browser.pageTestcomplete15DocumentationT2.textnodeTestcomplete1564.Click();
   //adding a message
   Log.Message("added from TestComplete");
+  //adding another message
+  Log.Message("added from gitrepo");
  }
